@@ -1,4 +1,4 @@
-# SparkLink_SV
+# SparkLink_SV_implementation.
 SV implementation of Sparklink task.
 
 # task2_simulation
